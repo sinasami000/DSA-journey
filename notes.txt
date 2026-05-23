@@ -1,0 +1,6 @@
+Steps of "Move all zeros to the end of the array"
+1. ekta loop chalano jotokkhan obdi na 0 pai
+2. 0 paoa gele loop break kore ber hoye aste hobe ebong oi index ta store rakhte hobe
+3. oi index theke (n) obdi arekta loop chalate hobe
+4. two pointer algo use korte hobe, jokhoni 0 paoa jabe i and j swap korte hobe
+5. swap korar pore i er man barate hobe ebong j er man per iteration barbe
